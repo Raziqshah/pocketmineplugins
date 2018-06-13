@@ -15,7 +15,7 @@ Pocketmine PM | https://github.com/pmmp/PocketMine-MP/issues
 
 - [x] Devtools v1.12.0 (dev-106) | https://github.com/pmmp/PocketMine-DevTools
 - [x] Festival v1.0.6-13 (dev-31) | https://github.com/genboy/Festival 
-- [x] EssentialsPe vv1.2.0-8| https://poggit.pmmp.io/ci/poggit-orphanage
+- [x] EssentialsPe v1.2.0-8 | https://poggit.pmmp.io/ci/poggit-orphanage
 
 - [ ] BigBrother | https://github.com/BigBrotherTeam/BigBrother/issues
 - [ ] Blocksniper v.2.3.1 | https://github.com/YTiStrafeNubzHD/BlockSniper/tree/master/
