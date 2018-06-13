@@ -14,8 +14,10 @@ Pocketmine PM | https://github.com/pmmp/PocketMine-MP/issues
 
 
 - [x] Devtools v1.12.0 (dev-106) | https://github.com/pmmp/PocketMine-DevTools
-- [x] Festival v1.0.6-13 (dev-31) | https://github.com/genboy/Festival 
 - [x] EssentialsPe v1.2.0-8 | https://poggit.pmmp.io/ci/poggit-orphanage
+- [x] Festival v1.0.6-13 (dev-31) | https://github.com/genboy/Festival 
+- [x] GrabBag v2.4.0-7 | https://github.com/poggit-orphanage/GrabBag/issues
+
 
 - [ ] BigBrother | https://github.com/BigBrotherTeam/BigBrother/issues
 - [ ] Blocksniper v.2.3.1 | https://github.com/YTiStrafeNubzHD/BlockSniper/tree/master/
@@ -23,7 +25,6 @@ Pocketmine PM | https://github.com/pmmp/PocketMine-MP/issues
 - [ ] ClientConsole v0.0.1 | https://github.com/dktapps/ClientConsole
 - [ ] Colormatic v1.0.2 | https://github.com/TheDeibo/Colormatic
 - [ ] Festival v1.0.6-13 | https://github.com/genboy/Festival 
-- [ ] GrabBag v2.4.0-6 | https://github.com/poggit-orphanage/GrabBag/issues
 - [ ] MapImageEngine v1.1 | https://github.com/FaigerSYS/MapImageEngine - http://mie-converter.ml/
 - [ ] MOTDshuffle v1.1.3 | https://github.com/TheDeibo/MOTDShuffle/issues
 - [ ] Parkour v1.5.6-5 | https://github.com/Awzaw/Parkour
