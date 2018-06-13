@@ -5,34 +5,41 @@
 A collection of Pocketmine plugins, tested with the latest stable Minecraft Pocketmine version available or newer if possible.
 Started with a small set of plugins to preserve a collection of usefull and reliable plugins to build on. 
 
+Running PocketMine-MP version 1.7dev-1174 (API 3.0.0) 
+with DevTools v1.13.0 for non-phar(.zip) plugin packages
+
 Pocketmine PM | https://github.com/pmmp/PocketMine-MP/issues
+
+
+- [x] Devtools v1.13.0 (dev-106) | https://github.com/pmmp/PocketMine-DevTools
+- [x] Festival v1.0.6-13 (dev-31) | https://github.com/genboy/Festival 
 
 - [ ] BigBrother | https://github.com/BigBrotherTeam/BigBrother/issues
 - [ ] Blocksniper v.2.3.1 | https://github.com/YTiStrafeNubzHD/BlockSniper/tree/master/
 - [ ] Cameraman v1.1.0-5| https://github.com/poggit-orphanage/Cameraman
 - [ ] ClientConsole v0.0.1 | https://github.com/dktapps/ClientConsole
-- [x] Colormatic v1.0.2 | https://github.com/TheDeibo/Colormatic
-- [x] Devtools v1.12.10| https://github.com/pmmp/PocketMine-DevTools
+- [ ] Colormatic v1.0.2 | https://github.com/TheDeibo/Colormatic
 - [ ] EssentialsPe v3.0.0 | https://github.com/ZPlayzMCPE/EssentialsPE-1
-- [x] Festival v1.0.6-13 | https://github.com/genboy/Festival 
-- [x] GrabBag v2.4.0-6 | https://github.com/poggit-orphanage/GrabBag/issues
-- [x] MapImageEngine v1.1 | https://github.com/FaigerSYS/MapImageEngine - http://mie-converter.ml/
+- [ ] Festival v1.0.6-13 | https://github.com/genboy/Festival 
+- [ ] GrabBag v2.4.0-6 | https://github.com/poggit-orphanage/GrabBag/issues
+- [ ] MapImageEngine v1.1 | https://github.com/FaigerSYS/MapImageEngine - http://mie-converter.ml/
 - [ ] MOTDshuffle v1.1.3 | https://github.com/TheDeibo/MOTDShuffle/issues
 - [ ] Parkour v1.5.6-5 | https://github.com/Awzaw/Parkour
 - [ ] ProfileUI v4.1.1 | https://github.com/Infernus101/ProfileUI
 - [ ] PureEntitiesX 0.4.1 | https://github.com/CodeKingdomsTeam/PureEntitiesX
 - [ ] PurePerms v1.4.1-4 | https://github.com/poggit-orphanage/PurePerms | [usage vid](https://youtu.be/v19TSITGxF4)
-- [x] ReplaySystem v1.2.0 | https://github.com/McpeBooster/ReplaySystem-McpeBooster/issues
-- [x] SignEdit v1.2 | https://github.com/OtorisanVardo/SignEdit
+- [ ] ReplaySystem v1.2.0 | https://github.com/McpeBooster/ReplaySystem-McpeBooster/issues
+- [ ] SignEdit v1.2 | https://github.com/OtorisanVardo/SignEdit
 - [ ] Texter v2.3.4 | https://github.com/fuyutsuki/Texter
 - [ ] TreasureChest 1.2.1-5 | https://github.com/Awzaw/TreasureChest/issues
-- [x] Worlds v2.0.1 | https://github.com/survanetwork/Worlds/issues
+- [ ] Worlds v2.0.1 | https://github.com/survanetwork/Worlds/issues
 
 ---
 Previously used plugins not on the list: Specter, LiveXYZ
 
-- [x] = previous or latest plugin working with PMMP 1.7dev-1106 3.0.0-ALPHA12 
-- [ ] = plugin is not available, update awaiting
+- [x] = previous or latest plugin working with PMMP 1.7dev-1174 3.0.0 (-ALPHA13) 
+- [ ] = latest tested plugin version not working, update awaiting
+
 
 --- 
 
