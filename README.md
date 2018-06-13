@@ -6,7 +6,9 @@ A collection of Pocketmine plugins, tested with the latest stable Minecraft Pock
 Started with a small set of plugins to preserve a collection of usefull and reliable plugins to build on. 
 
 Running PocketMine-MP version 1.7dev-1001 (API 3.0.0) 
-with DevTools v1.123.0 for non-phar(.zip) plugin packages
+
+with DevTools v1.12.0 for non-phar(.zip) plugin packages
+
 
 Pocketmine PM | https://github.com/pmmp/PocketMine-MP/issues
 
