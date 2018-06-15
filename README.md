@@ -14,6 +14,7 @@ Pocketmine PM | https://github.com/pmmp/PocketMine-MP/issues
 
 
 - [x] BetterGen v1.1 (api ALPHA12 bumped) | https://github.com/Ad5001/BetterGen/issues
+- [x] Blocksniper v.2.3.0 | https://github.com/YTiStrafeNubzHD/BlockSniper/tree/master/
 - [x] Devtools v1.12.0 (dev-106) | https://github.com/pmmp/PocketMine-DevTools
 - [x] EssentialsPe v1.2.0-8 | https://poggit.pmmp.io/ci/poggit-orphanage
 - [x] Festival v1.0.6-13 (dev-31) | https://github.com/genboy/Festival 
@@ -23,7 +24,7 @@ Pocketmine PM | https://github.com/pmmp/PocketMine-MP/issues
 
 
 - BigBrother | https://github.com/BigBrotherTeam/BigBrother/issues
-- Blocksniper v.2.3.1 | https://github.com/YTiStrafeNubzHD/BlockSniper/tree/master/
+
 - Cameraman v1.1.0-5| https://github.com/poggit-orphanage/Cameraman
 - ClientConsole v0.0.1 | https://github.com/dktapps/ClientConsole
 - Colormatic v1.0.2 | https://github.com/TheDeibo/Colormatic
