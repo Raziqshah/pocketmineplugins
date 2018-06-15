@@ -44,6 +44,4 @@ Previously used plugins not on the list: PurePerms, Specter, LiveXYZ, ClientCons
 
 --- 
 
-! Removed: Realtime plugin by [Point808](https://github.com/Point808/PMMP_Plugins/tree/master/RealTime/) - why? nice idea and it works but you see the sun/moon/shadow jumping back wich makes it look very hacky
-
 See [issues](https://github.com/genboy/pocketmineplugins/issues) for bit more info 
