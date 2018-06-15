@@ -17,6 +17,7 @@ Pocketmine PM | https://github.com/pmmp/PocketMine-MP/issues
 - [x] EssentialsPe v1.2.0-8 | https://poggit.pmmp.io/ci/poggit-orphanage
 - [x] Festival v1.0.6-13 (dev-31) | https://github.com/genboy/Festival 
 - [x] GrabBag v2.4.0-7 | https://github.com/poggit-orphanage/GrabBag/issues
+- [ ] BetterGen v1.1 (api ALPHA12 bump) | https://github.com/Ad5001/BetterGen/issues
 
 
 - [ ] BigBrother | https://github.com/BigBrotherTeam/BigBrother/issues
