@@ -32,17 +32,17 @@ Pocketmine PM | https://github.com/pmmp/PocketMine-MP/issues
 - MOTDshuffle v1.1.3 | https://github.com/TheDeibo/MOTDShuffle/issues
 - Parkour v1.5.6-5 | https://github.com/Awzaw/Parkour
 - ProfileUI v4.1.1 | https://github.com/Infernus101/ProfileUI
-- [ ] PurePerms v1.4.1-4 | https://github.com/poggit-orphanage/PurePerms | [usage vid](https://youtu.be/v19TSITGxF4)
-- [ ] ReplaySystem v1.2.0 | https://github.com/McpeBooster/ReplaySystem-McpeBooster/issues
-- [ ] SignEdit v1.2 | https://github.com/OtorisanVardo/SignEdit
-- [ ] Texter v2.3.4 | https://github.com/fuyutsuki/Texter
-- [ ] TreasureChest 1.2.1-5 | https://github.com/Awzaw/TreasureChest/issues
-- [ ] Worlds v2.0.1 | https://github.com/survanetwork/Worlds/issues
+- PurePerms v1.4.1-4 | https://github.com/poggit-orphanage/PurePerms | [usage vid](https://youtu.be/v19TSITGxF4)
+- ReplaySystem v1.2.0 | https://github.com/McpeBooster/ReplaySystem-McpeBooster/issues
+- SignEdit v1.2 | https://github.com/OtorisanVardo/SignEdit
+- Texter v2.3.4 | https://github.com/fuyutsuki/Texter
+- TreasureChest 1.2.1-5 | https://github.com/Awzaw/TreasureChest/issues
+- Worlds v2.0.1 | https://github.com/survanetwork/Worlds/issues
 
 ---
 Previously used plugins not on the list: Specter, LiveXYZ
 
-- [x] = previous or latest plugin working with PMMP 1.7dev-1001 3.0.0 (-ALPHA12) 
+- [x] = previous or latest plugin working with PMMP 1.7dev-1001 3.0.0-ALPHA12 
 - [ ] = latest tested plugin version not working, update awaiting
 
 
