@@ -15,20 +15,20 @@ Pocketmine PM | https://github.com/pmmp/PocketMine-MP/issues
 
 - [x] BetterGen v1.1 (api ALPHA12 bumped) | https://github.com/Ad5001/BetterGen/issues
 - [x] Blocksniper v.2.3.0 | https://github.com/YTiStrafeNubzHD/BlockSniper/tree/master/
+- [x] Cameraman v1.1.0-5 | https://github.com/poggit-orphanage/Cameraman
 - [x] Devtools v1.12.0 (dev-106) | https://github.com/pmmp/PocketMine-DevTools
 - [x] EssentialsPe v1.2.0-8 | https://poggit.pmmp.io/ci/poggit-orphanage
 - [x] Festival v1.0.6-13 (dev-31) | https://github.com/genboy/Festival 
 - [x] GrabBag v2.4.0-7 | https://github.com/poggit-orphanage/GrabBag/issues
+- [x] ProfileUI v4.1.1 | https://github.com/Infernus101/ProfileUI
 - [x] PureEntitiesX v0.4.1 | https://github.com/RevivalPMMP/PureEntitiesX
+- [x] TreasureChest 1.2.1-5 | https://github.com/Awzaw/TreasureChest/issues
 
 
 
 - BigBrother | https://github.com/BigBrotherTeam/BigBrother/issues
-
-- Cameraman v1.1.0-5| https://github.com/poggit-orphanage/Cameraman
 - ClientConsole v0.0.1 | https://github.com/dktapps/ClientConsole
 - Colormatic v1.0.2 | https://github.com/TheDeibo/Colormatic
-- Festival v1.0.6-13 | https://github.com/genboy/Festival 
 - MapImageEngine v1.1 | https://github.com/FaigerSYS/MapImageEngine - http://mie-converter.ml/
 - MOTDshuffle v1.1.3 | https://github.com/TheDeibo/MOTDShuffle/issues
 - Parkour v1.5.6-5 | https://github.com/Awzaw/Parkour
