@@ -42,7 +42,7 @@ Pocketmine PM | https://github.com/pmmp/PocketMine-MP/issues
 ---
 Previously used plugins not on the list: Specter, LiveXYZ
 
-- [x] = previous or latest plugin working with PMMP 1.7dev-1174 3.0.0 (-ALPHA13) 
+- [x] = previous or latest plugin working with PMMP 1.7dev-1001 3.0.0 (-ALPHA12) 
 - [ ] = latest tested plugin version not working, update awaiting
 
 
