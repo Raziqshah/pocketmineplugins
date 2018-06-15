@@ -29,7 +29,7 @@ Pocketmine PM | https://github.com/pmmp/PocketMine-MP/issues
 - [x] SignEdit v1.2 | https://github.com/OtorisanVardo/SignEdit
 - [x] Texter v2.3.4 | https://github.com/fuyutsuki/Texter
 - [x] TreasureChest 1.2.1-5 | https://github.com/Awzaw/TreasureChest/issues
-- [x] Worlds v2.0.1 | https://github.com/survanetwork/Worlds/issues
+- [x] Worlds v2.0.2 | https://github.com/survanetwork/Worlds/issues
 
 
 Todo/Debug
