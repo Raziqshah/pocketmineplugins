@@ -20,8 +20,11 @@ Pocketmine PM | https://github.com/pmmp/PocketMine-MP/issues
 - [x] EssentialsPe v1.2.0-8 | https://poggit.pmmp.io/ci/poggit-orphanage
 - [x] Festival v1.0.6-13 (dev-31) | https://github.com/genboy/Festival 
 - [x] GrabBag v2.4.0-7 | https://github.com/poggit-orphanage/GrabBag/issues
+- MOTDshuffle v1.1.3 | https://github.com/TheDeibo/MOTDShuffle/issues
 - [x] ProfileUI v4.1.1 | https://github.com/Infernus101/ProfileUI
 - [x] PureEntitiesX v0.4.1 | https://github.com/RevivalPMMP/PureEntitiesX
+- [x] SignEdit v1.2 | https://github.com/OtorisanVardo/SignEdit
+- [x] Texter v2.3.4 | https://github.com/fuyutsuki/Texter
 - [x] TreasureChest 1.2.1-5 | https://github.com/Awzaw/TreasureChest/issues
 
 
@@ -32,12 +35,8 @@ Pocketmine PM | https://github.com/pmmp/PocketMine-MP/issues
 - MapImageEngine v1.1 | https://github.com/FaigerSYS/MapImageEngine - http://mie-converter.ml/
 - MOTDshuffle v1.1.3 | https://github.com/TheDeibo/MOTDShuffle/issues
 - Parkour v1.5.6-5 | https://github.com/Awzaw/Parkour
-- ProfileUI v4.1.1 | https://github.com/Infernus101/ProfileUI
 - PurePerms v1.4.1-4 | https://github.com/poggit-orphanage/PurePerms | [usage vid](https://youtu.be/v19TSITGxF4)
 - ReplaySystem v1.2.0 | https://github.com/McpeBooster/ReplaySystem-McpeBooster/issues
-- SignEdit v1.2 | https://github.com/OtorisanVardo/SignEdit
-- Texter v2.3.4 | https://github.com/fuyutsuki/Texter
-- TreasureChest 1.2.1-5 | https://github.com/Awzaw/TreasureChest/issues
 - Worlds v2.0.1 | https://github.com/survanetwork/Worlds/issues
 
 ---
