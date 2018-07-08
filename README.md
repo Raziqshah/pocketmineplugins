@@ -4,8 +4,8 @@ A collection of Minecraft PMMP plugins branched to the pocketmine versions
 PocketMine-MP version 4.0.0+dev.1235
 
 API 3.0.0 - 4.0.0 
-- [ ] BetterGen_v1.1.phar
-- [ ] BigBrother
+- [ ] BetterGen
+- [ ] BigBrother v1.0.6 Bumped API 4.0.0 (testing)
 - [x] BlockSniper v2.3.1 Bumped API 4.0.0
 - [ ] Cameraman
 - [x] DevTools v1.13.0
