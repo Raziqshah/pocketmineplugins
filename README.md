@@ -23,5 +23,5 @@ API 3.0.0 - 4.0.0
 - [x] SignEdit v1.2.4 Bumped api 4.0.0 | https://github.com/OtorisanVardo/SignEdit
 - [ ] Texter | https://github.com/fuyutsuki/Texter
 - [x] TreasureChest v1.2.2 Bumped api 4.0.0 | https://github.com/Awzaw/TreasureChest
-- [x] Worlds v2.0.3 Bumped api 4.0.0
+- [x] Worlds v2.0.3 Bumped api 4.0.0  | https://github.com/survanetwork/Worlds/issues
 
