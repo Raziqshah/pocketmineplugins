@@ -1,7 +1,7 @@
 # Pocketmine plugins
 A collection of Minecraft PMMP plugins branched to the pocketmine versions
 
-PocketMine-MP version 4.0.0+dev.1235
+PocketMine-MP version 4.0.0+dev.1261
 
 API 3.0.0 - 4.0.0 
 - [ ] BetterGen
