@@ -9,7 +9,7 @@ PE server version v1.5.0 :: PocketMine-MP version 4.0.0+dev.1288
 - [x] Cameraman v1.1.1 Bumped api 4.0.0 | https://github.com/poggit-orphanage/Cameraman
 - [x] ClientConsole v0.1.0 Bumped api 4.0.0 | https://github.com/dktapps/ClientConsole
 - [x] DevTools v1.13.0 | https://github.com/pmmp/PocketMine-DevTools
-- [ ] EssentialsPE v2.1.0 Bumped api 4.0.0 | https://github.com/pmmp/PocketMine-DevTools
+- [x] EssentialsPE v2.1.0 Bumped api 4.0.0 | https://github.com/poggit-orphanage/EssentialsPE/issues
 - [x] Festival v1.0.7-dev | https://github.com/genboy/Festival
 - [ ] GrapBag | https://github.com/poggit-orphanage/GrabBag/issues
 - [x] MapImageEngine | https://github.com/FaigerSYS/MapImageEngine - http://mie-converter.ml/
