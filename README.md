@@ -1,7 +1,9 @@
 # Pocketmine plugins
 A collection of Minecraft PMMP plugins branched to the pocketmine versions
 
-PE server version v1.5.0 :: PocketMine-MP version 3.1.0
+PE server version v1.5.0 :: PocketMine-MP version 4.0.0+dev.1325
+
+or see https://github.com/genboy/pocketmineplugins/tree/PMMP_1.5-v3.1.0
 
 - [ ] BetterGen
 - [ ] BigBrother v1.0.6 Bumped API 4.0.0 (testing) | https://github.com/BigBrotherTeam/BigBrother
