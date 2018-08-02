@@ -5,7 +5,7 @@ PE server version v1.5.0 :: PocketMine-MP version 4.0.0+dev.1288
 
 - [ ] BetterGen
 - [ ] BigBrother v1.0.6 Bumped API 4.0.0 (testing) | https://github.com/BigBrotherTeam/BigBrother
-- [ ] BlockSniper v2.3.1 Bumped API 4.0.0 | https://github.com/YTiStrafeNubzHD/BlockSniper
+- [x] BlockSniper v2.3.1 Bumped API 4.0.0 | https://github.com/YTiStrafeNubzHD/BlockSniper
 - [x] Cameraman v1.1.1 Bumped api 4.0.0 | https://github.com/poggit-orphanage/Cameraman
 - [x] ClientConsole v0.1.0 Bumped api 4.0.0 | https://github.com/dktapps/ClientConsole
 - [x] DevTools v1.13.0 | https://github.com/pmmp/PocketMine-DevTools
